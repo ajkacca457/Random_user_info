@@ -39,7 +39,7 @@ Linkedin: https://www.linkedin.com/in/avijit-karmaker-8738a54a/
 
 
 
-🤝 Contributing
+🤝<h2>Contribution</h2>
 Contributions, issues and feature requests are welcome!
 
 Feel free to check the issues page.
