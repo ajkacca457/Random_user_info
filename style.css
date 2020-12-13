@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@1,600&display=swap');
+body {
+  background-color: rgba(247, 217, 225, 1);
+  font-family: 'Crimson Text', serif;
+}
+.container {
+background-color:rgba(233, 73, 116, 1);
+border-radius: 5px;
+}
